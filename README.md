@@ -44,4 +44,4 @@ This project was mainly to understand:
 
 ## Notes
 
-This is a beginner project, so the code is kept simple on purpose. No real backend or database is used, everything is just simulated with localStorage.
+This is a beginner project, so the code is kept simple on purpose. No real backend or database is used, everything is just simulated with localStorage..
